@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/96549482/147523782-adfa14ad-ed90-48f0-a74a-64ec7ec000af.png)
+
+
 # cf-instacart-grocery-basket-analysis
 
 ## Objective
